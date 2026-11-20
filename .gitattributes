@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.png binary
+*.tflite binary
+esp32/*/model_data.h -diff linguist-generated

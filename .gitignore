@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+*.pyc
+training/output/*
+!training/output/model.tflite
+data_cache/
+*.csv.tmp
